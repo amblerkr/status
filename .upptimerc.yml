@@ -8,8 +8,7 @@ sites:
     url: https://link.ambler.kr/
 
 status-website:
-  theme: night
-  cname: status-discord.ambler.kr
+  cname: status.ambler.kr
   logoUrl: https://raw.githubusercontent.com/amblerkr/amblerkr/master/img/LOGO_trans.png
   name: Ambler Status
   introTitle: "**Upptime** for Ambler"
