@@ -12,12 +12,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/amblerkr/amblerkr/master/img/LOGO_trans.png
   name: Ambler Status
   introTitle: "**Upptime** for Ambler"
-  introMessage: Ambler Stu
+  introMessage: 음악과 공연을 좋아하는 크리에이터 😎
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
-      href: https://ambler.kr/
+      href: https://go.ambler.kr/website
+    - title: Discord
+      href: https://go.ambler.kr/discord
+      
       
