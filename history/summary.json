@@ -4,18 +4,20 @@
     "url": "https://ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/ambler.kr.ico",
     "slug": "ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 117,
-    "timeWeek": 313,
-    "timeMonth": 258,
-    "timeYear": 263,
-    "dailyMinutesDown": {}
+    "time": 262,
+    "timeDay": 132,
+    "timeWeek": 293,
+    "timeMonth": 255,
+    "timeYear": 262,
+    "dailyMinutesDown": {
+      "2023-02-17": 0
+    }
   },
   {
     "name": "link.ambler.kr",
