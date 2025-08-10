@@ -4,7 +4,7 @@
     "url": "https://ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/ambler.kr.ico",
     "slug": "ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 344,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-08-02": 21,
       "2025-07-15": 26,
       "2025-04-03": 73
@@ -26,7 +27,7 @@
     "url": "https://link.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/link.ambler.kr.ico",
     "slug": "link-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 257,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-08-02": 21,
       "2025-07-15": 26,
       "2025-04-03": 72
